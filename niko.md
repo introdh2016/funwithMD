@@ -13,11 +13,9 @@ It's great for code! Take a command we learned to use in the terminal and share 
 
 
 # *NBA*
-Who doesn't love a good meme? Either find or create a meme about data!
-* Post your meme as an image.
 ![image0](https://cdn.meme.am/instances/500x/47510205.jpg)
 Share a video from YouTube that we all shoudn't live without. 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DnKOc6FISU" frameborder="0" allowfullscreen></iframe>
 Create another section header, give it a name, and italicize the header.
 
 I think Digital Humanities ___________________
