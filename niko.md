@@ -15,7 +15,9 @@ It's great for code! Take a command we learned to use in the terminal and share 
 # *NBA*
 ![image0](https://cdn.meme.am/instances/500x/47510205.jpg)
 Share a video from YouTube that we all shoudn't live without. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8DnKOc6FISU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DnKOc6FISU" frameborder="0" allowfullscreen></iframe><https://www.youtube.com/watch?v=8DnKOc6FISU>
+
 Create another section header, give it a name, and italicize the header.
 
 I think Digital Humanities ___________________
