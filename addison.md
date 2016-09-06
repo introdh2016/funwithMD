@@ -33,9 +33,9 @@ I think Digital Humanities is awesome
 * Finish the sentence. 
 
 The biggest questions I have going into this class are:
-  * Make sure to provide your answer as a bulleted list.
-  
- 
+  * where do we see aspects of digital humanities come up in other subjects?
+  * What are some areas of the subject we will be studying later in the year?
+ * what are some things well learn in digital humanities that we can use in our daily lives
   
   
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
