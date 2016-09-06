@@ -8,7 +8,7 @@ Source: [Daring Fireball] (https://daringfireball.net/projects/markdown/)
 It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
   
  
-Now, let's have some fun! 
+
 
 
 
