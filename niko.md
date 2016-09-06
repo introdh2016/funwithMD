@@ -18,9 +18,9 @@ It's great for code! Take a command we learned to use in the terminal and share 
 I think Digital Humanities is a very interesting subject that more people should know about.
 
 The biggest questions I have going into this class are:
-1. What career options do I have with this subject?
-2. How can digital humanities help with my other classes?
-3. Will this subject be valuable in ten years?
+* What career options do I have with this subject?
+* How can digital humanities help with my other classes?
+* Will this subject be valuable in ten years?
   
  
   
