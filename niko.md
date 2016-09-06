@@ -10,7 +10,7 @@ It's great for code! Take a command we learned to use in the terminal and share 
  
 Now, let's have some fun! 
 
-Create another section header, give it a name, and italicize the header.
+
 
 # *NBA*
 Who doesn't love a good meme? Either find or create a meme about data!
