@@ -12,7 +12,9 @@ It's great for code! Take a command we learned to use in the terminal and share 
 ![image0](https://cdn.meme.am/instances/500x/47510205.jpg)
  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8DnKOc6FISU" frameborder="0" allowfullscreen></iframe><https://www.youtube.com/watch?v=8DnKOc6FISU>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8DnKOc6FISU
+" target="_blank"><img src="http://img.youtube.com/vi/8DnKOc6FISU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # *Digital Humanities*
 I think Digital Humanities is a very interesting subject that more people should know about.
